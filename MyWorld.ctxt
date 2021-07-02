@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ \u521B\u5EFA\u521D\u59CB\u5BF9\u8C61\u5E76\u5C06\u5176\u6DFB\u52A0\u5230\u6E38\u620F\u4E16\u754C\u4E2D\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\ \u5728\u6B64world\u4E2D\u7684\u6240\u6709\u5BF9\u8C61\u7684act\u65B9\u6CD5\u4E4B\u524D\u6267\u884C\u3002\u9ED8\u8BA4\u7684act\u65B9\u6CD5\u4EC0\u4E48\u4E5F\u4E0D\u4F1A\u505A\u3002\r\n\u8BE5\u65B9\u6CD5\u5E94\u5F53\u5728\u5404\u4E2AWorld\u7C7B\u7684\u5B50\u7C7B\u4E2D\u91CD\u5199\uFF0C\u4ECE\u800C\u5B9A\u4E49\u5404\u5B50\u7C7B\u5BF9\u8C61\u7684\u52A8\u4F5C\u884C\u4E3A\u3002*
+numComments=4
